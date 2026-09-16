@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 ## Array
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
