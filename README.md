@@ -7,6 +7,7 @@
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
+| [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
+| [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
