@@ -8,6 +8,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0980-unique-paths-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,4 +255,24 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
