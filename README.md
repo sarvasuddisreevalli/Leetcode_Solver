@@ -116,4 +116,8 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
