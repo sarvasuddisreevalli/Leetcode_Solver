@@ -22,6 +22,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [3614-process-string-with-special-operations-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -301,4 +302,8 @@
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
