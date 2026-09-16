@@ -44,6 +44,7 @@
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Linked List
 |  |
 | ------- |
@@ -97,10 +99,12 @@
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0052-n-queens-ii) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -130,10 +134,12 @@
 | ------- |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Greedy
 |  |
 | ------- |
@@ -196,4 +202,16 @@
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
+## Memoization
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
