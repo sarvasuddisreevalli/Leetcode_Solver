@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
+| [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 ## Database
 |  |
 | ------- |
@@ -177,4 +179,16 @@
 | ------- |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
+## Depth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
