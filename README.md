@@ -23,6 +23,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
+| [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 ## Treap
 |  |
 | ------- |
@@ -218,4 +221,8 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
