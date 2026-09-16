@@ -55,6 +55,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [1220-count-vowels-permutation](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0980-unique-paths-iii) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
