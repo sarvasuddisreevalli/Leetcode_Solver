@@ -9,6 +9,7 @@
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0980-unique-paths-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Hamiltonian Path
 |  |
 | ------- |
