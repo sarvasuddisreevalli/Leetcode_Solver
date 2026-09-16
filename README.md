@@ -33,10 +33,12 @@
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
