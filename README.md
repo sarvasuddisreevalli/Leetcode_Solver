@@ -15,11 +15,13 @@
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
+| [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
+| [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,4 +176,5 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
+| [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
