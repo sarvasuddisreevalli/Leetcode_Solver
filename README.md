@@ -27,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
