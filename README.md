@@ -6,6 +6,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0052-n-queens-ii) |
+| [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
