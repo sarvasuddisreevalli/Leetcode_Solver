@@ -13,6 +13,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
