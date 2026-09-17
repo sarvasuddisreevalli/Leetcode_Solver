@@ -38,6 +38,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -188,6 +190,7 @@
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Sliding Window
 |  |
 | ------- |
