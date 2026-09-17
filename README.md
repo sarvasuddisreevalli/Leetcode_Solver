@@ -9,6 +9,7 @@
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## String
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -291,10 +293,12 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Extended Euclidean Algorithm
 |  |
 | ------- |
