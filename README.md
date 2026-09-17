@@ -70,6 +70,7 @@
 | [1340-jump-game-v](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -103,6 +104,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -207,6 +209,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
@@ -259,6 +262,7 @@
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1340-jump-game-v](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1340-jump-game-v) |
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Depth-First Search
