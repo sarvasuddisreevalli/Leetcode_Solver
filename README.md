@@ -9,6 +9,7 @@
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -99,6 +100,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1340-jump-game-v) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -350,4 +352,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
