@@ -36,6 +36,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -107,6 +109,7 @@
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -181,6 +184,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +216,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
