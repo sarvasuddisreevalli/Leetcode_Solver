@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
