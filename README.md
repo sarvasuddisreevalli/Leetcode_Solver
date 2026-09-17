@@ -54,6 +54,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0239-sliding-window-maximum) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [1220-count-vowels-permutation](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1220-count-vowels-permutation) |
@@ -214,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
