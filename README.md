@@ -9,6 +9,7 @@
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -63,6 +64,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -103,6 +105,7 @@
 | [0239-sliding-window-maximum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
@@ -234,6 +237,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +292,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Bézout's Lemma
 |  |
@@ -297,11 +302,13 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 ## Extended Euclidean Algorithm
 |  |
