@@ -24,6 +24,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
+| [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1392-longest-happy-prefix](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1392-longest-happy-prefix) |
@@ -150,6 +151,7 @@
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
+| [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
@@ -220,6 +223,7 @@
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
+| [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
