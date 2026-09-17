@@ -64,6 +64,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
@@ -74,6 +75,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -168,6 +170,7 @@
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
