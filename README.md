@@ -66,6 +66,7 @@
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -132,6 +133,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
 ## Bidirectional Search
 |  |
 | ------- |
