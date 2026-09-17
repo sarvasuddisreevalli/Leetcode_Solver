@@ -10,6 +10,7 @@
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2543-check-if-point-is-reachable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2543-check-if-point-is-reachable) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -75,6 +76,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -273,6 +275,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1402-reducing-dishes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Depth-First Search
