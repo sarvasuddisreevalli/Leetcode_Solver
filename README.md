@@ -280,11 +280,13 @@
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph Theory
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0765-couples-holding-hands) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
