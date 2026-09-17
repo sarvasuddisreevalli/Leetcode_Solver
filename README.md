@@ -54,6 +54,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
@@ -221,6 +223,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
