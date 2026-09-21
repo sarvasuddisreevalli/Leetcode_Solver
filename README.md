@@ -46,6 +46,7 @@
 | [0010-regular-expression-matching](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -135,6 +136,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
