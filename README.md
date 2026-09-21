@@ -89,6 +89,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -247,6 +248,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
