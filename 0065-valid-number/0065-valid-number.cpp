@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isNumber(string s) {
         if(s[0]=='+'|| s[0]=='-') s.erase(s.begin());
+        if(s.empty()) return 0;
         int i=0;
         int dot=0;
         while(i<s.size()) {
