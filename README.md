@@ -23,6 +23,7 @@
 | [0065-valid-number](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
@@ -66,6 +67,7 @@
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0406-queue-reconstruction-by-height) |
@@ -126,6 +128,7 @@
 | [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [1220-count-vowels-permutation](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1220-count-vowels-permutation) |
@@ -172,6 +175,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
@@ -186,6 +190,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0980-unique-paths-iii) |
@@ -342,6 +347,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 ## Heuristic Search
 |  |
@@ -449,4 +455,8 @@
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
