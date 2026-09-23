@@ -143,6 +143,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -169,6 +170,7 @@
 | [0037-sudoku-solver](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
