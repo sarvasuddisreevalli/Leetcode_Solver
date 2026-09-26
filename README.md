@@ -32,6 +32,7 @@
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1392-longest-happy-prefix](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1392-longest-happy-prefix) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
@@ -93,6 +94,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
 | [1901-find-a-peak-element-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -184,6 +186,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
