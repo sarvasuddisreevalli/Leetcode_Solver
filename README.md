@@ -30,6 +30,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1392-longest-happy-prefix](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1392-longest-happy-prefix) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -43,6 +44,7 @@
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
@@ -462,4 +464,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
