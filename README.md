@@ -33,6 +33,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1392-longest-happy-prefix](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1392-longest-happy-prefix) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3614-process-string-with-special-operations-ii) |
@@ -46,6 +47,7 @@
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
@@ -468,4 +470,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
