@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0273-integer-to-english-words) |
