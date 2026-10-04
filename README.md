@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -57,6 +58,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0273-integer-to-english-words) |
@@ -159,6 +161,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
