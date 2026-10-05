@@ -31,6 +31,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -48,6 +49,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0856-score-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -484,6 +486,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
