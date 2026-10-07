@@ -9,6 +9,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
+| [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
 | [1250-check-if-it-is-a-good-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1250-check-if-it-is-a-good-array) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -90,6 +91,7 @@
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
+| [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0560-subarray-sum-equals-k) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
@@ -127,6 +129,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1901-find-a-peak-element-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -320,6 +323,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -501,4 +505,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0142-linked-list-cycle-ii) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
