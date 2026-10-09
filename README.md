@@ -39,6 +39,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1392-longest-happy-prefix](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1392-longest-happy-prefix) |
+| [1542-find-longest-awesome-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1542-find-longest-awesome-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -213,6 +214,7 @@
 | [0895-maximum-frequency-stack](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0895-maximum-frequency-stack) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1345-jump-game-iv) |
+| [1542-find-longest-awesome-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1542-find-longest-awesome-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
@@ -408,6 +410,7 @@
 | [0980-unique-paths-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1542-find-longest-awesome-substring](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1542-find-longest-awesome-substring) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 ## Hamiltonian Path
