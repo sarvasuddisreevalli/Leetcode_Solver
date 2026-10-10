@@ -121,6 +121,7 @@
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
@@ -136,6 +137,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1901-find-a-peak-element-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -188,6 +190,7 @@
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1383-maximum-performance-of-a-team](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1383-maximum-performance-of-a-team) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
@@ -305,6 +308,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
@@ -366,6 +370,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1840-maximum-building-height) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Depth-First Search
 |  |
