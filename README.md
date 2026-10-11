@@ -123,6 +123,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3620-network-recovery-pathways](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -520,4 +521,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
