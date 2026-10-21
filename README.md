@@ -45,6 +45,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3614-process-string-with-special-operations-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
