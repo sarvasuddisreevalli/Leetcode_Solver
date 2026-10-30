@@ -86,6 +86,7 @@
 | [0045-jump-game-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0160-intersection-of-two-linked-lists) |
@@ -366,6 +368,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
 | [0406-queue-reconstruction-by-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0406-queue-reconstruction-by-height) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
@@ -534,4 +537,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
