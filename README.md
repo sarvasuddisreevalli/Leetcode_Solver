@@ -97,6 +97,7 @@
 | [0239-sliding-window-maximum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
@@ -166,6 +167,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0140-word-break-ii) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0773-sliding-puzzle) |
 | [1220-count-vowels-permutation](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/1220-count-vowels-permutation) |
@@ -308,6 +310,7 @@
 | [0055-jump-game](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0763-partition-labels) |
@@ -372,6 +375,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0075-sort-colors) |
 | [0406-queue-reconstruction-by-height](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0768-max-chunks-to-make-sorted-ii) |
