@@ -9,6 +9,7 @@
 | [0224-basic-calculator](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0282-expression-add-operators) |
+| [0367-valid-perfect-square](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
 | [0899-orderly-queue](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0899-orderly-queue) |
@@ -140,6 +141,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/sarvasuddisreevalli/Leetcode_Solver/tree/master/0528-random-pick-with-weight) |
